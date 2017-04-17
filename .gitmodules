@@ -1,0 +1,9 @@
+[submodule "src/com/zoominfo"]
+	path = src/com/zoominfo
+	url = https://github.com/SaintsRobotics/Java-Generators-Submodule.git
+[submodule "com/saintsrobotics/framework"]
+	path = com/saintsrobotics/framework
+	url = https://github.com/SaintsRobotics/Framework.git
+[submodule "src/com/saintsrobotics/framework"]
+	path = src/com/saintsrobotics/framework
+	url = https://github.com/SaintsRobotics/Framework.git
